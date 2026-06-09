@@ -1,0 +1,4 @@
+/* component-scoped overrides intentionally minimal */
+.App {
+  min-height: 100vh;
+}
