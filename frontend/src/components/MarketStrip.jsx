@@ -1,4 +1,3 @@
-import Marquee from "react-fast-marquee";
 import { TICKER } from "@/data/mock";
 console.log(typeof Marquee);
 

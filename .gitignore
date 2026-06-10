@@ -86,3 +86,5 @@ android-sdk/
 credentials.json
 *.key
 .credentials
+.quoteConfig.js
+frontend/src/libs/quoteConfig.js
